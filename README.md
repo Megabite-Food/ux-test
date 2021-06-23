@@ -64,6 +64,6 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
     - Etc.
 
 Al finalizar, existen 2 (dos) opciones para entregar su proyecto:
-- Realizar un Commit de su proyecto, enviar un Pull Request al branch con su NOMBRE, y notificar a la siguiente dirección de correo electrónico lespinoza@megabitefood.com.
-- Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico lespinoza@megabitefood.com con asunto: [nombre]_[apellido]-resultado test [cargo]
+- Realizar un Commit de su proyecto, enviar un **Pull Request al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com).
+- Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com) con asunto: [nombre]_[apellido]-resultado test [cargo]
 
