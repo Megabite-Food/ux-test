@@ -10,13 +10,13 @@ Pero a pesar de que es una solución funcional, sigue siendo muy limitada. Los c
 
 A modo de ejemplo y solución actual, a continuación algunos de los menú de nuestras marcas en las plataformas de delivery.
 
-**Crazy Panda**: (Pedir a Marinés y Jonhatan platos reales de Sushi bien extraños)
+**Nori Taco**: https://noritaco.com/nuestra-carta/
 
-Luego de definir con qué marca trabajarás, debes ayudarnos a desarrollar para nuestra aplicación móvil una experiencia única e interactiva para nuestros clientes, realmente un menú digital que les permita:
+Debes ayudarnos a desarrollar para nuestra aplicación móvil una experiencia única e interactiva para nuestros clientes, realmente un menú digital que les permita:
 
 - Comprender de manera amigable cada uno de los platos e ingredientes
 - Visualizar los platos de una forma interactiva y original
-- Entender la definición o nombres que pueden ser de difícil entendimientos para clientes que no estén familiarizados con la carta o tipo de comida.
+- Entender la definición o nombres que pueden ser de difícil entendimientos para clientes que no estén familiarizados con la carta o tipo de comida (truffle scallops, sesame, etc)
 - Aumentar la taza de conversión definida (Cant. Personas que realizan pedido / Cant. Personas que visualizan la carta)
 
 ### Entendimiento del problema
@@ -66,3 +66,4 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 Al finalizar, existen 2 (dos) opciones para entregar su proyecto:
 - Realizar un Commit de su proyecto, enviar un Pull Request al branch con su NOMBRE, y notificar a la siguiente dirección de correo electrónico lespinoza@megabitefood.com.
 - Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico lespinoza@megabitefood.com con asunto: [nombre]_[apellido]-resultado test [cargo]
+
