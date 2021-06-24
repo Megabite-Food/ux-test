@@ -44,26 +44,22 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 
 ### Entrega
 - Recomendamos emplear un máximo de 24 (veinticuatro) horas y enviar todo lo que puedas.
-- Se requiere de una cuenta de GitHub para realizar este ejercicio
-- Realizar un Fork de este repositorio (https://github.com/Megabite-Food/ux-test)
-- Clonar el fork a su máquina local git clone git@github.com:USERNAME/FORKED-PROJECT.git
-- Crear un branch en su cuenta de GitHub utilizando su nombre completo.
-- Edita el archivo README.md en él deberás agregar lo siguiente explicando el proceso del proyecto:
-    -- Objetivos del proyecto
-    -- Definición del público objetivo
-    + User persona
-    + Customer Journey Map (indicando pain y gain points)
-- Definición de la solución/producto
-- Link a prototipo navegable (Figma, InVision, tu preferencia)
-- Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
-- Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
-- Un video en https://www.loom.com/  (adjuntar link) de máximo 5 minutos explicando tu documento. Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en el README.md y para hacer un demo de la solución.
-- En las otras carpetas del repositorio podrás agregar los documentos complementarios que sustenten tu proceso:
+- Crear una carpeta compartida (Google Drive, Dropbox, etc) con permisos de acceso público. 
+- Generar un archivo PDF en él deberás agregar lo siguiente explicando el proceso del proyecto:
+        -- Objetivos del proyecto
+        -- Definición del público objetivo
+         + User persona
+         + Customer Journey Map (indicando pain y gain points)
+    - Definición de la solución/producto
+    - Link a prototipo navegable (Figma, InVision, tu preferencia)
+    - Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+    - Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+    - Un video en https://www.loom.com/  (adjuntar link) de máximo 5 minutos explicando tu documento. Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados arriba y para hacer un demo de la solución.
+- Por último, agregar los documentos complementarios que sustenten tu proceso en dicha carpeta compartida:
     - Fotos, videos, guías de las actividades que realizaste
     - Flujo de usuario
     - Etc.
 
-Al finalizar, existen 2 (dos) opciones para entregar su proyecto:
-- Realizar un Commit de su proyecto, enviar un **Pull Request al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com).
-- Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com) con asunto: [nombre]_[apellido]-resultado test [cargo]
+Al finalizar, para entregar su proyecto:
+- Enviar a la siguiente dirección de correo electrónico [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com) con asunto: [nombre]_[apellido]-resultado test UX
 
