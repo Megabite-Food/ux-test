@@ -47,8 +47,8 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 - Crear una carpeta compartida (Google Drive, Dropbox, etc) con permisos de acceso público. 
 - Generar un archivo PDF en él deberás agregar lo siguiente explicando el proceso del proyecto:
 
-        -- Objetivos del proyecto
-        -- Definición del público objetivo
+    - Objetivos del proyecto
+    - Definición del público objetivo
          + User persona
          + Customer Journey Map (indicando pain y gain points)
     - Definición de la solución/producto
