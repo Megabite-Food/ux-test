@@ -46,6 +46,7 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 - Recomendamos emplear un máximo de 24 (veinticuatro) horas y enviar todo lo que puedas.
 - Crear una carpeta compartida (Google Drive, Dropbox, etc) con permisos de acceso público. 
 - Generar un archivo PDF en él deberás agregar lo siguiente explicando el proceso del proyecto:
+
         -- Objetivos del proyecto
         -- Definición del público objetivo
          + User persona
