@@ -21,7 +21,7 @@ Debes ayudarnos a desarrollar para nuestra aplicación móvil una experiencia ú
 
 ### Entendimiento del problema
 
-Te asegurarás que el producto que diseñarás es el correcto, es decir, que sigue objetivos de negocio y que resuelve necesidades reales de los usuarios. Para ello tendrás que entender al cliente (***Megabite***) y a los usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a resolver dicho problema. Para ello puedes realizar muchas actividades, sin embargo el tiempo y los recursos que tienes son limitados (5 Horas).
+Te asegurarás que el producto que diseñarás es el correcto, es decir, que sigue objetivos de negocio y que resuelve necesidades reales de los usuarios. Para ello tendrás que entender al cliente (***Megabite***) y a los usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a resolver dicho problema. Para ello puedes realizar muchas actividades, sin embargo el tiempo y los recursos que tienes son limitados ***(3 Horas)***.
 
 ### Planteamiento y validación de la solución
 
@@ -39,7 +39,7 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 | Prototipado de alta fidelidad | Elaboración de prototipo en base a las pantallas diseñadas. |
 
 ### Entrega
-- Recomendamos emplear un máximo de 5 (cinco) horas y enviar todo lo que puedas.
+- Recomendamos emplear un máximo de 3 (tres) horas y enviar todo lo que puedas.
 - Crear una carpeta compartida (Google Drive, Dropbox, etc) con permisos de acceso público. 
 - Generar un archivo PDF en él deberás agregar lo siguiente explicando el proceso del proyecto:
 
