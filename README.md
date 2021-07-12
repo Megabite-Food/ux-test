@@ -39,7 +39,7 @@ Para poder realizar este reto tendrás que realizar las actividades del siguient
 | Prototipado de alta fidelidad | Elaboración de prototipo en base a las pantallas diseñadas. |
 
 ### Entrega
-- Recomendamos emplear un máximo de 3 (tres) horas y enviar todo lo que puedas.
+- Recomendamos emplear un máximo de ***3 (tres) horas*** y enviar todo lo que puedas.
 - Crear una carpeta compartida (Google Drive, Dropbox, etc) con permisos de acceso público. 
 - Generar un archivo PDF en él deberás agregar lo siguiente explicando el proceso del proyecto:
 
